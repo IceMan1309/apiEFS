@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W+Rf6MfkPGMiKigcEeLJTKg8FrQqw+wbQqq2WwjTMO4=",
+  "Source": "apiEFS",
+  "BasePath": "_content/apiEFS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
